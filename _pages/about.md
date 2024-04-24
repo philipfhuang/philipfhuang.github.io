@@ -16,13 +16,13 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-🎓 I am doing my fourth-year undergrad study of Computer Science student @ ![](/assets/img/Utoronto_coa.png){: width="14" } [University of Toronto](https://www.utoronto.ca/). 
+I am doing my fourth-year undergrad study of Computer Science student at ![](/assets/img/Utoronto_coa.png){: width="15" } [University of Toronto](https://www.utoronto.ca/). 
 
-💼 I am currently a Teaching Assistant @ [UTM Mathematical & Computational Sciences](https://www.utm.utoronto.ca/math-cs-stats/) for CSC343 - Introduction to Databases
+I am currently a Teaching Assistant for CSC343 - Introduction to Databases at [UTM Mathematical & Computational Sciences](https://www.utm.utoronto.ca/math-cs-stats/).
 
-🌱 I have learned **Data Structure, Algorithm Design, Artificial Intelligence, Machine Learning, Deep Learning, Neural Network, Parallel Programming, Database, Web Programming, Software Design, Software Engineering, System Programming, Scalable Computing, Robotics**
+I have learned **Data Structure, Algorithm Design, Artificial Intelligence, Machine Learning, Deep Learning, Neural Network, Parallel Programming, Database, Web Programming, Software Design, Software Engineering, System Programming, Scalable Computing, Robotics**
 
-### 🔨 Languages, Skills and Tools
+#### Languages, Skills and Tools
 
 <div align="center">
     <a href="https://python.org/" target="_blank" rel="noreferrer">
@@ -120,4 +120,3 @@ social: true # includes social icons at the bottom of the page
     <a href="https://gazebosim.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gazebo/gazebo-original-wordmark.svg" alt="gazebo" width="40" height="40" />
     </a>
-</div>

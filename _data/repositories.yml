@@ -1,12 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - philipfhuang
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - philipfhuang/EasyChef
+  - philipfhuang/Distributed-URL-Shortener-System
+  - philipfhuang/mysh
+  - philipfhuang/rplace-AWS
+  - Big-Cow-King/PlayPal-Backend
+  - Big-Cow-King/PlayPal-Frontend

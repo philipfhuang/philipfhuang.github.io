@@ -6,16 +6,17 @@ subtitle: Hi 👋, I'm Feiran (Philip)
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: me.jpg
   image_circular: false # crops the image to make it circular
   more_info: 
 
 news: false # includes a list of news items
+latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-🎓 I am doing my fourth-year undergrad study of Computer Science student @ ![](/assets/img/Utoronto_coa.svg.png){: width="14" } [University of Toronto](https://www.utoronto.ca/). 
+🎓 I am doing my fourth-year undergrad study of Computer Science student @ ![](/assets/img/Utoronto_coa.png){: width="14" } [University of Toronto](https://www.utoronto.ca/). 
 
 💼 I am currently a Teaching Assistant @ [UTM Mathematical & Computational Sciences](https://www.utm.utoronto.ca/math-cs-stats/) for CSC343 - Introduction to Databases
 
@@ -116,7 +117,7 @@ social: true # includes social icons at the bottom of the page
     <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
         <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_smile-header-desktop-en-white_59x35.png" alt="aws" width="40"  />
     </a>
-    <a href="https://gazebosim.org/">
+    <a href="https://gazebosim.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gazebo/gazebo-original-wordmark.svg" alt="gazebo" width="40" height="40" />
     </a>
 </div>

@@ -68,6 +68,13 @@
       "summary": "Conduct comparative and empirical analysis of large language models (LLMs) and small language models (SLMs) to evaluate their performance and efficiency."
     }
   ],
+  "publications": {
+    "name": "Can Small Language Models With Retrieval-Augmented Generation Replace Large Language Models When Learning Computer Science?",
+    "publisher": "ACM",
+    "releaseDate": "2024-07-08",
+    "url": "https://doi.org/10.1145/3649217.3653554",
+    "summary": "The paper explores the efficacy of locally-stored Small Language Models (SLMs) with Retrieval-Augmented Generation (RAG) methods compared to cloud-based Large Language Models (LLMs) like gpt-3.5-turbo and gpt-4-32k, demonstrating that SLMs with RAG can offer comparable or superior performance in aiding computing students' learning, thereby enabling educators to maintain control over data security and privacy in educational settings."
+  },
   "interests": [
     {
       "name": "Software Engineering",

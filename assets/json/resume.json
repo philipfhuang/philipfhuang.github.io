@@ -55,14 +55,12 @@
   "research": [
     {
       "name": "Advanced LLM and Distributed Systems (University of Toronto)",
-      "position": "Researcher",
       "startDate": "2023-09",
       "endDate": "2024-01",
       "summary": "Develop and utilize small language models in conjunction with Retrieve and Generate (RAG) architecture to construct personalized AI systems."
     },
     {
       "name": "Comparative and Empirical Analysis of LLMs versus SLMs (University of Toronto)",
-      "position": "Researcher",
       "startDate": "2024-01",
       "endDate": "2024-04",
       "summary": "Conduct comparative and empirical analysis of large language models (LLMs) and small language models (SLMs) to evaluate their performance and efficiency."

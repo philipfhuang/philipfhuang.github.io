@@ -77,6 +77,63 @@
       "summary": "The paper explores the efficacy of locally-stored Small Language Models (SLMs) with Retrieval-Augmented Generation (RAG) methods compared to cloud-based Large Language Models (LLMs) like gpt-3.5-turbo and gpt-4-32k, demonstrating that SLMs with RAG can offer comparable or superior performance in aiding computing students' learning, thereby enabling educators to maintain control over data security and privacy in educational settings."
     }
   ],
+  "projects": [
+    {
+      "name": "AI - Assistant",
+      "summary": "A self-deployable AI Chatbot that act as an assistant to help users with their specific demands.",
+      "url": "https://ai-assistant.utm.utoronto.ca/",
+      "startDate": "2023-09"
+    },
+    {
+      "name": "PlayPal",
+      "summary": "A web application which facilitates individuals finding people to play sports together, simplify the process of finding sports partners and organizing sports activities and fostering a community of sports enthusiasts.",
+      "url": "https://github.com/philipfhuang/PlayPal-Frontend",
+      "highlights": ["Full Stack", "Django REST framework, Next.js, JWT, CI/CD, PayPal API"],
+      "startDate": "2024-01",
+      "endDate": "2024-04"
+    },
+    {
+      "name": "Easy Chef",
+      "summary": "A social media platform designed for users to share and discover recipes.",
+      "url": "https://github.com/philipfhuang/EasyChef",
+      "highlights": ["Full Stack", "Django REST framework, React.js, JWT"],
+      "startDate": "2023-01",
+      "endDate": "2023-04"
+    },
+    {
+      "name": "r/place",
+      "summary": "A replica of Reddit's \"r\/place\" using resources provided by Amazon Web Services (AWS).",
+      "url": "https://github.com/philipfhuang/rplace-AWS",
+      "highlights": "AWS",
+      "startDate": "2023-11",
+      "endDate": "2023-12"
+    },
+    {
+      "name": "URL Shortener",
+      "summary": "A distributed URL shortener system inspired by bit.ly.",
+      "url": "https://github.com/philipfhuang/Distributed-URL-Shortener-System",
+      "highlights": ["Distributed Systems", "Scalable Computing", "Docker", "Nginx", "Redis", "Cassandra"],
+      "startDate": "2023-10",
+      "endDate": "2023-11"
+    },
+    {
+      "name": "Neural Style Transfer",
+      "summary": "A neural style transfer system that applies the style of one image to the content of another image.",
+      "url": "https://github.com/philipfhuang/Neural-Style-Transfer",
+      "highlights": ["Deep Learning", "Machine Vison", "PyTorch"],
+      "startDate": "2023-09",
+      "endDate": "2023-12"
+    },
+    {
+      "name": "mysh",
+      "summary": "A robust Unix shell program that supports basic shell commands and piping.",
+      "url": "https://github.com/philipfhuang/mysh",
+      "highlights": ["Systems Programming", "C"],
+      "startDate": "2022-01",
+      "endDate": "2022-04"
+    }
+
+  ],
   "interests": [
     {
       "name": "Software Engineering",

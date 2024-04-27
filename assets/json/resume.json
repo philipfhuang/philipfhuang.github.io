@@ -11,7 +11,12 @@
       "startDate": "2024-01",
       "endDate": "2024-04",
       "summary": "Teaching assistant for the course CSC343 - Introduction to Databases at the University of Toronto.",
-      "highlights": ["Planned and conducted weekly laboratory.", "Graded assignments and exams.", "Develop laboratory materials.", "Manage discussion board to address students' questions"]
+      "highlights": [
+        "Planned and conducted weekly laboratory.",
+        "Graded assignments and exams.",
+        "Develop laboratory materials.",
+        "Manage discussion board to address students' questions"
+      ]
     }
   ],
   "education": [
@@ -23,7 +28,25 @@
       "studyType": "Honors Bachelor of Science",
       "startDate": "2020-09",
       "endDate": "2024-06",
-      "courses": ["Algorithm Design", "Data Structures", "Scalable Computing", "Software Engineering", "Databases", "Web Programming", "Operating Systems", "Systems Programming", "Computer Security", "Artificial Intelligence", "Machine Learning", "Deep Learning", "Neural Network", "Machine Vision", "Advanced LLM and Distributed Systems for Personalized AI", "Comparative and Empirical Analysis of LLMs versus SLMs", "Robotics"]
+      "courses": [
+        "Algorithm Design",
+        "Data Structures",
+        "Scalable Computing",
+        "Software Engineering",
+        "Databases",
+        "Web Programming",
+        "Operating Systems",
+        "Systems Programming",
+        "Computer Security",
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Deep Learning",
+        "Neural Network",
+        "Machine Vision",
+        "Advanced LLM and Distributed Systems for Personalized AI",
+        "Comparative and Empirical Analysis of LLMs versus SLMs",
+        "Robotics"
+      ]
     }
   ],
   "skills": [
@@ -31,25 +54,19 @@
       "name": "Programming Languages",
       "level": "Master",
       "icon": "fa-solid fa-code",
-      "keywords": [
-        "C", "C++", "Python", "Java", "PHP", "SQL", "HTML", "CSS", "JavaSript", "TypeSript", "R", "Assembly"
-      ]
+      "keywords": ["C", "C++", "Python", "Java", "PHP", "SQL", "HTML", "CSS", "JavaSript", "TypeSript", "R", "Assembly"]
     },
     {
       "name": "Frameworks",
       "level": "Master",
       "icon": "fa-solid fa-cubes",
-      "keywords": [
-        "React", "Next.js", "Node.js", "JQuery", "Bootstrap", "Tailwind CSS", "Flask", "Django", "requests", "Numpy", "Pandas", "PyTorch"
-      ]
+      "keywords": ["React", "Next.js", "Node.js", "JQuery", "Bootstrap", "Tailwind CSS", "Flask", "Django", "requests", "Numpy", "Pandas", "PyTorch"]
     },
     {
       "name": "Tools & Services",
       "level": "Master",
       "icon": "fa-solid fa-tools",
-      "keywords": [
-        "AWS", "Git", "Docker", "Nginx", "Node.js", "Redis", "Cassandra", "Shell", "Gazebo", "Bootstrap", "Figma"
-      ]
+      "keywords": ["AWS", "Git", "Docker", "Nginx", "Node.js", "Redis", "Cassandra", "Shell", "Gazebo", "Bootstrap", "Figma"]
     }
   ],
   "research": [
@@ -100,7 +117,7 @@
     },
     {
       "name": "r/place",
-      "summary": "A replica of Reddit's \"r\/place\" using resources provided by Amazon Web Services (AWS).",
+      "summary": "A replica of Reddit's \"r/place\" using resources provided by Amazon Web Services (AWS).",
       "url": "https://github.com/philipfhuang/rplace-AWS",
       "highlights": "AWS",
       "startDate": "2023-11",
@@ -130,13 +147,22 @@
       "startDate": "2022-01",
       "endDate": "2022-04"
     }
-
   ],
   "interests": [
     {
       "name": "Software Engineering",
       "icon": "fa-solid fa-code",
-      "keywords": ["Algorithm Design", "Data Structures", "Scalable Computing", "Software Engineering", "Databases", "Web Programming", "Operating Systems", "Systems Programming", "Computer Security"]
+      "keywords": [
+        "Algorithm Design",
+        "Data Structures",
+        "Scalable Computing",
+        "Software Engineering",
+        "Databases",
+        "Web Programming",
+        "Operating Systems",
+        "Systems Programming",
+        "Computer Security"
+      ]
     },
     {
       "name": "Artificial Intelligence",

@@ -78,7 +78,7 @@
   "projects": [
     {
       "name": "AI - Assistant",
-      "summary": "A self-deployable AI Chatbot that act as an assistant to help users with their specific demands.",
+      "summary": "An AI Chatbot utilizing the Retrieval-Augmented Generation (RAG) method, designed to function as a virtual assistant. It is tailored to address users' individual needs and queries. Specifically implemented within 300-level and 400-level Computer Science courses at the University of Toronto, it serves as an adjunct teaching assistant, providing support and guidance to students.",
       "url": "https://ai-assistant.utm.utoronto.ca/",
       "startDate": "2023-09"
     },

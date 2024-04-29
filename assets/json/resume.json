@@ -116,6 +116,14 @@
       "endDate": "2023-04"
     },
     {
+      "name": "ThreeMusketeers",
+      "summary": "Implemented a Java-based version of the classic board game ThreeMusketeers, incorporating modern design principles and advanced features to enhance gameplay experience. Collaborated with a team of developers to design, develop, and deploy the project.",
+      "url": "https://github.com/philipfhuang/ThreeMusketeers",
+      "highlights": ["Java", "MVC", "Git"],
+      "startDate": "2021-09",
+      "endDate": "2021-12"
+    },
+    {
       "name": "r/place",
       "summary": "A replica of Reddit's \"r/place\" using resources provided by Amazon Web Services (AWS).",
       "url": "https://github.com/philipfhuang/rplace-AWS",

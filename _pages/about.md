@@ -19,7 +19,7 @@ I am doing my fourth-year undergrad study of Computer Science student at ![](/as
 
 I am currently a Teaching Assistant for CSC343 - Introduction to Databases at [UTM Mathematical & Computational Sciences](https://www.utm.utoronto.ca/math-cs-stats/).
 
-I have learned **Data Structure, Algorithm Design, Artificial Intelligence, Machine Learning, Deep Learning, Neural Network, Parallel Programming, Database, Web Programming, Software Design, Software Engineering, System Programming, Scalable Computing, Robotics**
+I have studied **Data Structure, Algorithm Design, Artificial Intelligence, Machine Learning, Deep Learning, Neural Network, Parallel Programming, Database, Web Programming, Software Design, Software Engineering, System Programming, Scalable Computing, Robotics**
 
 #### Languages, Skills and Tools
 

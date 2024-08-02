@@ -54,7 +54,7 @@
       "name": "Programming Languages",
       "level": "Master",
       "icon": "fa-solid fa-code",
-      "keywords": ["C", "C++", "Python", "Java", "PHP", "SQL", "HTML", "CSS", "JavaSript", "TypeSript", "R", "Assembly"]
+      "keywords": ["C", "C++", "Python", "Java", "PHP", "SQL", "HTML", "CSS", "JavaSript", "TypeSript", "R", "Assembly", "RISC-V"]
     },
     {
       "name": "Frameworks",
@@ -153,6 +153,14 @@
       "url": "https://github.com/philipfhuang/mysh",
       "highlights": ["Systems Programming", "C"],
       "startDate": "2022-01",
+      "endDate": "2022-04"
+    },
+    {
+      "name": "Simon - RISC-V",
+      "summary": "A Simon game implemented on the RISC-V architecture.",
+      "url": "https://github.com/philipfhuang/Simon-RISC-V",
+      "highlights": ["Assembly", "RISC-V"],
+      "startDate": "2022-03",
       "endDate": "2022-04"
     }
   ],
